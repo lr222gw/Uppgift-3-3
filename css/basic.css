@@ -23,11 +23,13 @@
     font-family: Verdana;
     padding-top: 10px;
     font-size: 0.9em;
+    color: rgb(117, 98, 98);
 }
 #maincontent h1{
     font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
     font-weight: 200;
     font-size: 35px;
+    color: rgb(117, 98, 98);
 }
 #subcontent{
     float:left;
@@ -35,18 +37,20 @@
     padding: 10px;
     border-left: 1px gray dashed;
     position: relative;
-    top: 45px;
+    margin-top: 45px;
     overflow: auto;
 }
 #subcontent p{
     font-size: 0.7em;
     font-family: 'verdana';
     padding-top: 20px;
+    color: rgb(117, 98, 98);
 }
 #subcontent h1{
     font-weight: 100;
     font-size: 1.2em;
     position: relative;
+    color: rgb(70, 59, 59);
 }
 #subcontent h1, #subcontent p{
     position: relative;
