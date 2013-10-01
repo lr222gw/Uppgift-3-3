@@ -24,6 +24,7 @@
     padding-top: 10px;
     font-size: 0.9em;
     color: rgb(117, 98, 98);
+    line-height: 1.6;
 }
 #maincontent h1{
     font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
@@ -45,6 +46,7 @@
     font-family: 'verdana';
     padding-top: 20px;
     color: rgb(117, 98, 98);
+    line-height: 1.6;
 }
 #subcontent h1{
     font-weight: 100;
@@ -61,4 +63,7 @@
     bottom: 0;
     padding: 10px;
     float: left;
+    font-style: italic;
+    font-size: 0.8em;
+    color: rgb(117, 98, 98);
 }
