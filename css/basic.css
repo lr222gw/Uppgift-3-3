@@ -74,14 +74,14 @@ table {
     font-family: Verdana;
     padding-top: 10px;
     font-size: 0.9em;
-    color: rgb(117, 98, 98);
+    color: rgb(104, 95, 95);
     line-height: 1.6;
 }
 #maincontent h1{
     font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
     font-weight: 200;
     font-size: 35px;
-    color: rgb(117, 98, 98);
+    color: rgb(131, 125, 125);
 }
 #subcontent{
     float:left;
@@ -89,14 +89,14 @@ table {
     padding: 10px;
     border-left: 1px gray dashed;
     position: relative;
-    margin-top: 45px;
+    margin-top: 33px;
 
 }
 #subcontent p{
     font-size: 0.7em;
     font-family: 'verdana';
     padding-top: 20px;
-    color: rgb(117, 98, 98);
+    color: rgb(104, 95, 95);
     line-height: 1.6;
 }
 #subcontent h1{
@@ -116,7 +116,7 @@ table {
     float: left;
     font-style: italic;
     font-size: 0.8em;
-    color: rgb(117, 98, 98);
+    color: rgb(104, 95, 95);
 }
 li{
     list-style-type: none;
