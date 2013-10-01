@@ -90,7 +90,7 @@ table {
     border-left: 1px gray dashed;
     position: relative;
     margin-top: 45px;
-    overflow: auto;
+
 }
 #subcontent p{
     font-size: 0.7em;
