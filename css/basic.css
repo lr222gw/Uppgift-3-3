@@ -67,3 +67,6 @@
     font-size: 0.8em;
     color: rgb(117, 98, 98);
 }
+li{
+    list-style-type: none;
+}
