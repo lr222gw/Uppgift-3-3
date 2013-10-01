@@ -1,1 +1,4 @@
 {"ts":1380645442240,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"/* Denna fil får du editera för att lösa uppgiften. Du får INTE ändra i html-filen. */"]],"start1":0,"start2":0,"length1":0,"length2":86}]],"length":86}
+{"contributors":[],"silentsave":false,"ts":1380645597271,"patch":[[{"diffs":[[0,"ilen. */"],[1,"\n\n#container{\n\n\n}"]],"start1":78,"start2":78,"length1":8,"length2":25}]],"length":103,"saved":false}
+{"ts":1380645644561,"patch":[[{"diffs":[[0,"tainer{\n"],[1,"width: 970px;"],[0,"\n\n}"]],"start1":92,"start2":92,"length1":11,"length2":24}]],"length":116,"saved":false}
+{"ts":1380645682212,"patch":[[{"diffs":[[0," 970px;\n"],[1,"margin: 0 auto;"],[0,"\n}"]],"start1":106,"start2":106,"length1":10,"length2":25}]],"length":131,"saved":false}
