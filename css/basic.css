@@ -83,10 +83,15 @@ table {
     font-size: 35px;
     color: rgb(131, 125, 125);
 }
-#menu a {
+#menu a { /*Denna gör att skip navigation försvinner*/
 display: none;
 }
-#menu ul a {
+#menu ul a {  /*Denna gör att menyn synns om ^ är aktiv*/
+display: inline;
+padding: 10px 25px;
+background-color: gray;
+}
+#menu ul li { /*Denna gör att listan blir horizontal istället för vertical.*/
 display: inline;
 }
 #subcontent{
