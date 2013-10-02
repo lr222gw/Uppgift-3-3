@@ -92,12 +92,16 @@ table {
 #menu ul a {  /*Denna gör att menyn synns om ^ är aktiv*/
     display: inline;
     padding: 10px 25px;
+    margin: -1px; /*Minskar mellanrummet mellan menyvalen!*/
     background-color: gray;
     text-transform: capitalize; /*Gör att det blir stor bokstav i början på alla ord*/
     text-decoration: none; /*Tar bort understrecket*/
     color: rgb(221, 221, 196);
     font-family: 'verdana';
     font-size: 0.8em;
+    position: relative; /*Rättar till  med 1 pixel*/
+    top: 1px;
+    
 }
 #menu ul li { /*Denna gör att listan blir horizontal istället för vertical.*/
     display: inline;
@@ -106,7 +110,7 @@ table {
     background-color: rgb(233, 233, 209);
     color: rgb(143, 138, 138);
     position: relative; /*vi gör position relative så att vi kan flytta ner den aktiva lådan 1 px*/
-    top: 1px;
+    top: 2px;
 }
 #subcontent{
     float:left;
