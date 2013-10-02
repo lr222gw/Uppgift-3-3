@@ -83,6 +83,12 @@ table {
     font-size: 35px;
     color: rgb(131, 125, 125);
 }
+#menu a {
+display: none;
+}
+#menu ul a {
+display: inline;
+}
 #subcontent{
     float:left;
     width: 30%;
