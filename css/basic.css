@@ -55,6 +55,7 @@ table {
     width: 671px;
     margin: 0 auto;
     border: gray 1px solid;
+    margin-top: 10px; /*Lägger till lite space över containern som på bilden*/
 }
 #content{
     background-color:rgb(234,232,211);
@@ -85,15 +86,16 @@ table {
 }
 #menu{
     padding: 12px;
+    margin-bottom: -3px; /*För att minska avståndet mellan menu och content..*/
 }
 #menu a { /*Denna gör att skip navigation försvinner*/
     display: none;
 }
 #menu ul a {  /*Denna gör att menyn synns om ^ är aktiv*/
     display: inline;
-    padding: 10px 25px;
+    padding: 7px 25px;
     margin: -1.5px; /*Minskar mellanrummet mellan menyvalen!*/
-    background-color: gray;
+    background-color: rgb(121,113,102);
     text-transform: capitalize; /*Gör att det blir stor bokstav i början på alla ord*/
     text-decoration: none; /*Tar bort understrecket*/
     color: rgb(221, 221, 196);
@@ -101,6 +103,7 @@ table {
     font-size: 0.8em;
     position: relative; /*Rättar till  med 1 pixel*/
     top: 1px;
+    border-top: rgb(133, 133, 118) solid 1px; /*Denna border ger en mer 3D-aktig känsla som finns i orginalet*/
     
 }
 #menu ul li { /*Denna gör att listan blir horizontal istället för vertical.*/
@@ -132,7 +135,7 @@ table {
     font-weight: 100;
     font-size: 1.2em;
     position: relative;
-    color: rgb(70, 59, 59);
+    color: rgb(120,113,103);
 }
 #subcontent h1, #subcontent p{
     position: relative;
@@ -156,21 +159,22 @@ padding-bottom: 20px;
     color: rgb(104, 95, 95);
 }
 #topbar{
-    background-color: rgb(82, 71, 71);
-    padding-bottom: 265px;
+    background-color: rgb(81,71,61);
+    padding-bottom: 270px;
     margin-bottom: -39px;
     background-image: url(pics/coffey.jpg);
     background-repeat: no-repeat;
     background-position-y: 18px;
     background-size: 100%;
     /*Här kommer kod som anpassar text som ej är skriven i några taggar..*/
-    color: rgb(180, 179, 162);
+    color: rgb(234,232,211);
     text-align: right;
     font-style: italic;
     font-size: 0.6em;
     padding-top: 3px;
     font-family: verdana;
-}
+    border-top: 1px black solid; /*lägger till border som på originalet!*/
+    border-bottom: 1px black solid;
 }
 body{
     background-color: rgb(251,250,245);
