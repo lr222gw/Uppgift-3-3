@@ -163,6 +163,13 @@ padding-bottom: 20px;
     background-repeat: no-repeat;
     background-position-y: 18px;
     background-size: 100%;
+    /*Här kommer kod som anpassar text som ej är skriven i några taggar..*/
+    color: rgb(180, 179, 162);
+    text-align: right;
+    font-style: italic;
+    font-size: 0.6em;
+    padding-top: 3px;
+    font-family: verdana;
 }
 }
 body{
