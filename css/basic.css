@@ -104,7 +104,9 @@ table {
     position: relative; /*Rättar till  med 1 pixel*/
     top: 1px;
     border-top: rgb(133, 133, 118) solid 1px; /*Denna border ger en mer 3D-aktig känsla som finns i orginalet*/
-    
+}
+#menu ul a:hover { /*Denna påverkar utseendet på menyknapparna när man håller muspekaren över dem*/
+background-color: rgb(156,144,132);
 }
 #menu ul li { /*Denna gör att listan blir horizontal istället för vertical.*/
     display: inline;

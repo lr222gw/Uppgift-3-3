@@ -136,3 +136,5 @@
 {"ts":1380733573357,"patch":[[{"diffs":[[0,"m: -3px;"],[1," /*För att sätta ihop */"],[0,"\n}\n#menu"]],"start1":1919,"start2":1919,"length1":16,"length2":40}]],"length":4612,"saved":false}
 {"ts":1380733583481,"patch":[[{"diffs":[[0,"att "],[-1,"sätta ihop "],[1,"minska avståndet mellan menu och content.."],[0,"*/\n}"]],"start1":1934,"start2":1934,"length1":19,"length2":50}]],"length":4643,"saved":false}
 {"ts":1380733683104,"patch":[[{"diffs":[[0,"olid;\n}\n"],[-1,"}\n"],[0,"body{\n  "]],"start1":4486,"start2":4486,"length1":18,"length2":16}]],"length":4641,"saved":false}
+{"ts":1380782899395,"patch":[[{"diffs":[[0,"nalet*/\n"],[-1,"    "],[1,"}\n#menu ul a:hover {\nbackground-color: rgb(156,144,132);"],[0,"\n}\n#menu"]],"start1":2659,"start2":2659,"length1":20,"length2":72}]],"length":4693,"saved":false}
+{"ts":1380782929316,"patch":[[{"diffs":[[0,":hover {"],[1," /*Denna påverkar utseendet på menyknapparna när man håller muspekaren över dem*/"],[0,"\nbackgro"]],"start1":2679,"start2":2679,"length1":16,"length2":97}]],"length":4774,"saved":false}
